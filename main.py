@@ -1,0 +1,5 @@
+name = input("enter your name")
+name2 = input("enter your grade")
+name3 = input("enter school name")
+print("your name is" , name)
+print("your school name is" , name3)
